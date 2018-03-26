@@ -1,0 +1,16 @@
+Specific responsibilities include: 
+Developing statistical natural language understanding (NLU) models that elevate the customer experience.
+Ensuring data quality throughout all stages of acquisition and processing, including data sourcing/collection, ground truth generation, normalization, transformation, and cross-lingual alignment/mapping.
+Auditing metrics data and success criteria.
+Work with engineers to develop efficient data querying infrastructure for both offline and online use cases.
+Basic Qualifications
+Bachelor or Master's degree in highly quantitative field (CS, machine learning, mathematics, statistics) or equivalent experience.
+Experience with R, Python, Weka, SAS, Matlab or other statistical/machine learning software.
+Experience applying various machine learning techniques, and understanding the key parameters that affect their performance.
+Experience developing experimental and analytic plans for data modeling processes, use of strong baselines, and the ability to accurately determine cause and effect relationships.
+Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.
+Preferred Qualifications
+3+ years of experience with machine learning, statistical modeling, data mining, and analytics techniques.
+Experience in one or more natural language processing topics: tagging, syntactic parsing, word sense disambiguation, topic modeling; contextual text mining, and application of deep learning to NLP.
+Previous experience in a ML or data scientist role with a large technology company.
+Fluency in a language other than English

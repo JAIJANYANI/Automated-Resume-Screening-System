@@ -1,0 +1,351 @@
+ 
+
+ 
+
+Ananda Narayan 
+E-mail:  anandan@umich.edu  
+
+ 
+
+EDUCATION 
+
+Year 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Web: umich.edu/~anandan/ 
+
+Degree & Institution 
+
+2012 — ?  Ph.D candidate, Machine Learning applications, Computer Science & Engineering,  University of Michigan 
+
+2016 
+
+2012 
+
+2011 
+
+M.S, Computer Science & Engineering,  University of Michigan 
+Data Mining Certificate, Michigan Inst. of Computational Discovery & Engineering,  University of Michigan 
+M.Tech, Electrical Engineering,  Indian Institute of Technology (IIT) Madras 
+Thesis on Learning Theory applied to Bandit problems in Reinforcement Learning 
+B.Tech, Electrical Engineering,  Indian Institute of Technology (IIT) Madras  (Minor: Operations Research) 
+
+PROFESSIONAL INTERESTS 
+
+CGPA 
+4.0/4 
+4.0/4 
+
+9.12/10 
+Rank – 1 
+9.12/10 
+
+  Design, build, deploy Machine Learning applications to solve real-world problems empirically 
+  Experience with varied forms of practical data, including Image, Speech, Text, Video, Motion-capture & other 
+
+high-dimensional data 
+
+PATENTS & PUBLICATIONS 
+
+  Publication: "Fractional Moments on Bandit Problems". Ananda Narayanan B & Ravindran B. In the Proceedings 
+
+of the 27th Conference on Uncertainty in Artificial Intelligence 2011 
+
+ 
+
+ 
+
+ 
+
+[Paper1] 
+
+  Master’s Thesis: "Control of Sample Complexity and Regret in Bandits using fractional moments". Ananda 
+
+Narayan. M.Tech. Thesis, Indian Institute of Technology (IIT) Madras, Apr 2012   
+
+ 
+
+[Paper2] 
+
+  Patent: "Database Collection for Illumination Invariant Object Recognition". Ananda Narayanan B, P Baheti, A 
+Swaminathan, M Chari and S Diaz, to be submitted for US patent, Aug 2010 Affiliation: Qualcomm [Patent1] 
+
+ENGINEERING RESEARCH & PROFESSIONAL EXPERIENCE 
+
+  Long Short-Term Memory Recurrent Neural Networks (LSTM RNNs) learnt using Deep Learning techniques 
+
+applied to Problem X (ask for details) 
+
+  LSTM RNNs applied to Problem Y (ask for details) 
+  LSTM RNNs applied to Problem Z (ask for details) 
+  Deep Learning for Student Course Recommendation [Medium article] 
+
+ 
+
+         
+
+       (Summer-Fall '15) 
+
+o  Formulated the given Machine Learning problem as 5 different optimization problems 
+o  LSTM RNNs performed best among all, try our production system at oversoul.eecs.umich.edu 
+(Summer '14) 
+Improving Fraud Detection using Digital Links at Amazon, Seattle 
+o  Scaled up Machine Learning pipelines: 4600 processors, 35000 GB memory achieving 5-minute execution 
+o  Designed a new Machine Learning pipeline to replace existing prod: AUC perf. increase from 83% to 90% 
+o  Handled 2+ TB data with graphs upto 130 GB (50M nodes, 100M edges) using single-node in-disk scaling 
+[Teaching] Taught graduate course Machine Learning (EECS 545) with prof. Satinder Singh Baveja (Winter '15) 
+[Teaching] Taught Data Structures and Algorithms (EECS 281) with prof. Paoletti & prof. Darden    (Fall '14) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Predicting high-dimensional time-series data   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+      (Winter '13) 
+
+o  Developed a Machine Learning test-bed with 24 different model learning and feature learning algorithms 
+o  By thorough systematic search, demonstrated performance surpassing the state-of-the-art (deep learning) 
+o  Upto 10 times more accurate predictions over existing state-of-the-art algorithms 
+
+  Time-series predictions for modeling text 
+
+ 
+o  Developed in-disk, huge (100GB+), highly complex Machine Learning models 
+o  Demonstrated performances comparable to other state-of-the-art deep learning models 
+
+ 
+
+ 
+
+      (Summer-Fall '13) 
+
+ 
+
+ 
+
+ 
+
+http://www.umich.edu/~anandan/ 
+
+ 
+
+ 
+
+  Automated Diagnosis of Blood Loss during Accidents   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Fall '12) 
+
+o  Applied Machine Learning algorithms to diagnose blood loss from vital signs (ECG, HF, GSR, etc.) 
+o  Demonstrated performances of 94.6% on par with state-of-the-art models used in industry 
+
+  Master’s Thesis – [Paper2]  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Fall '11) 
+
+o  Proposed a unique model-free Machine Learning algorithm, for learning in a probabilistic framework with 
+
+applications in contextual online advertising (Google Ads) & finance (Auctions, Pricing, Trading) 
+
+o  Proved the algorithm achieves the theoretically least possible regret – O(log(t)) – as envisioned in 1985 
+o  Upto 20 times faster learning over existing state-of-the-art algorithms in the literature 
+o  First algorithm in literature to introduce parametric control on learning for conflicting optimality criteria 
+(Spring '11) 
+
+  Wireless Health Monitoring System with Emergency Response    [End-product Design]   
+
+o  Designed a Machine Learning based life-saving ECG monitoring system that performs intelligent diagnosis 
+
+alerting 8 most common cardiac abnormalities – National Contest Winner, Awarded $6500 
+
+o  Examined the literature on QRS complex detection and ECG Classification algorithms 
+o  Devised a novel machine learning algorithm for classification of ECG abnormalities 
+
+  Publication springing up from a coursework, Reinforcement Learning – [Paper1] 
+
+ 
+
+(Winter '10) 
+
+o  Proposed a novel Machine Learning  algorithm using fractional moments; theoretically proved convergence 
+o  Proved the algorithm achieves theoretically least possible complexity ever attainable – O(n) 
+o  Demonstrated performance surpassing state-of-the-art techniques introduced in 2006 and 2010 
+
+  Research Internship at Corporate R&D, Qualcomm, San Diego – [Patent1] 
+
+(Summer '10) 
+o  Employed object recognition & information theory in Computer Vision for augmented reality applications 
+o  Analyzed SIFT feature descriptors and their resilience to changes in illumination 
+o 
+
+Introduced new algorithms & demonstrated upto 10%  improvement in Object Recognition performance 
+
+ 
+
+ 
+
+  Multi-Lane Speed Detection using optical links [Press] 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+(Winter '08) 
+
+  Research Internship at University of Montreal, Canada    
+
+o  Devised and implemented a Vehicle Speed Detector using low-power LEDs and field-tested for robustness 
+o  National Highways Authority (Govt. of India) is evaluating the design for installations across the country 
+o 
+IIT Madras has installed the speed detectors across the institute for permanent speed limit enforcement 
+(Summer '11) 
+o  Developed & tested feature tracking algorithms for Intelligent Transportation Systems [Computer Vision] 
+o 
+Implemented modular design for grouping and tracking of vehicles with extensions to different features 
+(Winter '09) 
+
+  Thread-Density Estimator   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o  Designed a low cost thread-density estimator to ease handloom weavers’ tiresome manual counting 
+o  Devised different Image processing algorithms using Radon Transforms, FFTs, Super Resolution, etc. 
+o  Reverse engineered an Optical Mouse to be used as a Camera 
+
+AWARDS & DISTINCTIONS 
+
+  Google Artificial Intelligence Contest 2010, Worldwide Rank: 55; India Rank: 1 
+  National Winner (Awarded $6500), Texas Instruments India Analog Design Challenge 2010, among 93 teams 
+  Gold Medalist, Indian National Physics Olympiad 2007 
+  All India Rank 428 (among 2,50,000) in IIT-JEE, conducted by Indian Institutes of Technology 
+  All India Rank 153, State Rank 3 (among 6,35,000) in AIEEE, conducted by CBSE 
+  Top 1% (among 30,000+), Indian National Chemistry Olympiad 2007 
+  Top 1% (among 30,000+), Indian National Mathematics Olympiad 2007 
+  Placed 8th  in India, CBSE Group Mathematics Olympiad 2006 [Rankings] 
+  First Place, City Inter-School Mathematics Olympiad – ‘Actuaria 2006’ 
+  All India Rank 495, Rank in Mathematics 113, in National Science Talent Search Examination 2005 
+  National top 0.1%, Certificate of Merit, in CBSE Class X Mathematics Examination 
+
+http://www.umich.edu/~anandan/ 
+
+ 
+
+ 
+
+ 
+
+COMPUTER SKILLS 
+
+  Programming Languages, Packages & Tools – C, C++, Python, MATLAB, Java, Scilab, OpenCV 
+
+RELEVANT COURSEWORK 
+
+Computer Science & Engineering 
+
+Systems & Signal Processing 
+
+Machine Learning 
+Pattern Recognition 
+Advanced Reinforcement Learning 
+
+Computer Vision 
+Image Processing 
+
+Data Structures & Algorithms 
+Advanced Operations Research 
+Game Theory 
+
+Stochastic Modeling, Queuing Theory 
+Probability & Random Processes 
+Analog and Digital Signal Processing 
+
+ 
+
+http://www.umich.edu/~anandan/ 
+
+
