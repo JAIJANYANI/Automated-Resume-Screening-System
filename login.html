@@ -1,0 +1,24 @@
+<!doctype html>
+<head>
+
+<title>CodeByte</title>
+<link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+<link rel="stylesheet" href="./static/paper.css">
+
+</head>
+<body>
+<div class=page>
+  <h1>CodeByte</h1>
+
+  <h2>Login</h2>
+  {% if error %}<p class=error><strong>Error:</strong> {{ error }} </p> {% endif %}
+  <form action="{{ url_for('login') }}" method=post>
+      Username:<input type=text name=username>
+      Password:
+      <input type=password name=password>
+      <input type=submit value=Login>
+  </form>
+  </div>
+
+</body>
+

@@ -11,9 +11,7 @@ Used recommendation engine techniques such as KNN, content based filtering for f
 * Numpy==1.11.3
 * Pandas
 * Sklearn
-* Python 3.6.0 |Anaconda 4.3.0 (64-bit)|<br />
-
-Tested on Ubuntu 16.04 LTS amd64 xenial image built on 2017-09-19 8-core CPU
+* Python 3.6.0 |Anaconda 4.3.0 (64-bit)|
 
 
 ## Running
@@ -21,14 +19,10 @@ Tested on Ubuntu 16.04 LTS amd64 xenial image built on 2017-09-19 8-core CPU
 * Simply run this command from root directory.
 
 ```
-python Main_1.py
+python app.py
 
 ```
 
 ## Author
 
-# CodeByte
-
-## Licence
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for detail
+# @CodeByte
