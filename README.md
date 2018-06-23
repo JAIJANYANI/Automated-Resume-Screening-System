@@ -20,6 +20,8 @@ Used recommendation engine techniques such as Collaborative , Content-Based filt
 ## Running
 
 * Simply run this command from root directory.
+* Login Username :admin
+        Password : whitetigers2018
 
 ```
 python app.py
