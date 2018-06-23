@@ -1,8 +1,8 @@
-# Automated-Resume-Screening-System
+# Automated Resume Screening System (With Dataset)
 A web app to help employers by analysing resumes and CVs, surfacing candidates that best match the position and filtering out those who don't.
 
 ## Description
-Used recommendation engine techniques such as KNN, content based filtering for fuzzy matching job description with multiple resumes.
+Used recommendation engine techniques such as Collaborative , Content-Based filtering for fuzzy matching job description with multiple resumes.
 
 ## Prerequisites
 
@@ -13,6 +13,9 @@ Used recommendation engine techniques such as KNN, content based filtering for f
 * Sklearn
 * Python 3.6.0 |Anaconda 4.3.0 (64-bit)|
 
+# Dataset
+
+* Link : https://s3.ap-south-1.amazonaws.com/codebyte-bucket/Resume%26Job_Descriptions.zip
 
 ## Running
 
