@@ -18,7 +18,7 @@
 - placeholder two
 
 ## License
- Apache License 2.0 (change it accordingly)
+ MIT License
 
 ## Acknowledgments
 - placeholder one
