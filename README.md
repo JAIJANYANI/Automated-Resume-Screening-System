@@ -11,6 +11,7 @@ Used recommendation engine techniques such as Collaborative , Content-Based filt
 * Numpy==1.11.3
 * Pandas
 * Sklearn
+* PdfMiner.six
 * Python 3.6.0 |Anaconda 4.3.0 (64-bit)|
 
 # Dataset
