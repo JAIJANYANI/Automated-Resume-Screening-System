@@ -8,3 +8,4 @@
 * Email applicant
 * Analytics dashboard
 * Export reports
+* Cleaning the sourcecode for runtime optimization
