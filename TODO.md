@@ -11,5 +11,4 @@
 * []Analytics dashboard
 * []Export reports
 * []Custom Weigth Score For Analyst 
-* [x]Support Query Applicant's Data From Search Engine
-
+* []Support Query Applicant's Data From Search Engine
