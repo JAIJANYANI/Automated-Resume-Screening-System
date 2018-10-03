@@ -1,5 +1,7 @@
 ### List of features can be added
 
+
+
 * []Add Resumes
 * []Update Resumes
 * []Create data model for a Resume
@@ -8,3 +10,6 @@
 * []Email applicant
 * []Analytics dashboard
 * []Export reports
+* []Custom Weigth Score For Analyst 
+* [x]Support Query Applicant's Data From Search Engine
+
