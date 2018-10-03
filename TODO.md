@@ -8,5 +8,6 @@
 * Email applicant
 * Analytics dashboard
 * Export reports
+* Cleaning the sourcecode for runtime optimization
 * Custom Weigth Score For Analyst 
 * Support Query Applicant's Data From Search Engine
