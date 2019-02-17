@@ -16,7 +16,9 @@ Used recommendation engine techniques such as Collaborative , Content-Based filt
 
 # Dataset
 
-* Link : https://s3.ap-south-1.amazonaws.com/codebyte-bucket/Resume%26Job_Descriptions.zip
+* Link1 : https://s3.ap-south-1.amazonaws.com/codebyte-bucket/Resume%26Job_Descriptions.zip
+* Mirror : https://drive.google.com/open?id=17M9oDPip5JFFFNJhDCBQKy8BMqoyxajU
+
 
 ## Running
 
