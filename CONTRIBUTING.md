@@ -65,4 +65,30 @@ Changes must be submitted through Pull Requests. You can find more about this in
 ## Maintainers
 
 * [Jai Janyani](https://github.com/JAIJANYANI)
+* [Abhishek Sharma](https://github.com/cryptoabhi)
+* [Kartik Agarwal](https://github.com/kartik31)
+
+
+## Hacktoberfest 2019!
+
+* Steps to Create your first PR and get Official Hacktoberfest merchandise for free.
+* Step 0: Create a Github account for free here.
+* Step 1: Register at Hactoberfest-2019 using your github id.
+* Step 2: Star this repo and share it with your friends.
+* Step 3: Just open "CONTRIBUTING.md" and include your name and the link to your github profile in the "Collaborators" section to make a * connection with all other open enthusiasts like us.
+
+* OR You can add references to some cool open source projects below:
+
+## Collaborator (Hacktoberfest 2019)
+* 
+*
+*
+
+
+
+## Cool Open source Projects (Hacktoberfest 2019)
+* 
+*
+*
+
 
