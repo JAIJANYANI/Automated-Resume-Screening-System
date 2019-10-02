@@ -80,7 +80,7 @@ Changes must be submitted through Pull Requests. You can find more about this in
 * OR You can add references to some cool open source projects below:
 
 ## Collaborator (Hacktoberfest 2019)
-* 
+* [Nitish Sharma](https://github.com/nitish81299)
 *
 *
 
