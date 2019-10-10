@@ -82,13 +82,13 @@ Changes must be submitted through Pull Requests. You can find more about this in
 ## Collaborator (Hacktoberfest 2019)
 * [ModuleLoop] (https://github.com/moduleloop) 
 * [Nitish Sharma](https://github.com/nitish81299)
-*
+* [NavodaKaluarachchi] (https://github.com/NavodaKaluarachchi)
 *
 
 
 
 ## Cool Open source Projects (Hacktoberfest 2019)
-* 
+* freeCodeCamp
 *
 *
 
