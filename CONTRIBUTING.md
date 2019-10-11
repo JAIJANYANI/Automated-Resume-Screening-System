@@ -83,12 +83,14 @@ Changes must be submitted through Pull Requests. You can find more about this in
 * [ModuleLoop] (https://github.com/moduleloop) 
 * [Nitish Sharma](https://github.com/nitish81299)
 * [NavodaKaluarachchi] (https://github.com/NavodaKaluarachchi)
+* [Spencer Robinson](https://github.com/spenmaster)
 *
 
 
 
 ## Cool Open source Projects (Hacktoberfest 2019)
 * freeCodeCamp
+* [Tensorflow](https://github.com/tensorflow/tensorflow)
 *
 *
 
