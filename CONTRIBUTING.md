@@ -85,6 +85,8 @@ Changes must be submitted through Pull Requests. You can find more about this in
 * [NavodaKaluarachchi] (https://github.com/NavodaKaluarachchi)
 * [Spencer Robinson](https://github.com/spenmaster)
 * [Paulo Filho] (https://github.com/paulo-filho-dev)
+* [Eduardo Santos](https://github.com/eduardosgs)
+
 
 
 
