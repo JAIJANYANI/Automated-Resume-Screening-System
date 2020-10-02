@@ -95,5 +95,10 @@ Changes must be submitted through Pull Requests. You can find more about this in
 * [Tensorflow](https://github.com/tensorflow/tensorflow)
 *
 *
+## Collaborator (Hacktoberfest 2020)
+* [Suraj Kumar] (https://github.com/Surajkumar573)
 
+
+## Cool Open source Projects (Hacktoberfest 2020)
+* [Game of dice] (https://github.com/Surajkumar573/Game-of-Dice)
 
