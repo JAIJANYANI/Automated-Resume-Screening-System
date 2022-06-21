@@ -9,5 +9,5 @@ nltk==3.4.5
 contractions==0.0.21
 textsearch==0.0.17
 inflect==2.1.0
-numpy==1.17.2
+numpy==1.22.0
 pdfminer.six==20181108
