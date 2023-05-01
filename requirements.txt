@@ -1,6 +1,6 @@
 textract==1.6.3
 requests==2.22.0
-Flask==1.1.1
+Flask==2.3.2
 gensim==3.8.0
 sklearn==0.0
 PyPDF2==1.26.0
