@@ -3,7 +3,7 @@ requests==2.22.0
 Flask==1.1.1
 gensim==3.8.0
 sklearn==0.0
-PyPDF2==1.26.0
+PyPDF2==1.27.9
 autocorrect==0.4.4
 nltk==3.4.5
 contractions==0.0.21
